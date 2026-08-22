@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     printf("Duas\tlinhas\tde\tsaída\nou\tuma?");
 
     return 0;

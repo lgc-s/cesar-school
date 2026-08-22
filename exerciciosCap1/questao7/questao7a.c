@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     printf("\n\tBom dia! Shirley.");
 
     return 0;
