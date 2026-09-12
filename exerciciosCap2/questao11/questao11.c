@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    const double pi = 3.141593;
+    const float pi = 3.141593;
     double graus, radianos;
 
     printf("Digite o valor do ângulo em graus: ");
