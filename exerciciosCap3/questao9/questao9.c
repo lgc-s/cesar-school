@@ -20,7 +20,7 @@ int main() {
     }
     printf("\nQuantidade de valores validos: %d\n", quantidade);
     printf("Soma total: %.2f\n", soma);
-    printf("Media aritmetica: %.2f\n", media);
+    printf("Média aritmética: %.2f\n", media);
 
     return 0;
 }
