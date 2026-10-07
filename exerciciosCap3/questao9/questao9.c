@@ -18,7 +18,7 @@ int main() {
     } else {
         media = 0;
     }
-    printf("\nQuantidade de valores validos: %d\n", quantidade);
+    printf("\nQuantidade de valores válidos: %d\n", quantidade);
     printf("Soma total: %.2f\n", soma);
     printf("Média aritmética: %.2f\n", media);
 
