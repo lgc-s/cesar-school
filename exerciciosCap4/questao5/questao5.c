@@ -23,7 +23,6 @@ sendo 5 e a adição de c em 10 é feita, fazendo b ser 5 e c ser 20.
 
 int main() {
     int a = 0, b = 5, c = 10;
-    
 
      /*(a != 0 && ++b > 5)*/
     if (a == 0 || ++b > 5)

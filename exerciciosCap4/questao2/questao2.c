@@ -23,7 +23,6 @@ int main() {
     else
         printf("Opção B\n");
     */
-
     // Letra c)
     if (x > 10) {
         if (y > 10) {
